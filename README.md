@@ -1,8 +1,3 @@
-!!!!!!! PYTHON MUST BE INSTALLED TO RUN THIS PROGRAM,
-OPEN YOUR TERMINAL AND Run;
-pip install mysql-connector
-
-
 Pik! - AI Program Project Idea Generator
 
 Overview:
