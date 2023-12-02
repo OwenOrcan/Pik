@@ -23,19 +23,9 @@ We've squashed tiny bugs for seamless operation. Enjoy a smoother experience wit
 ↩️ Instant Interaction with Enter Key:
 Get answers in a flash! Pressing the enter key now prompts Pik to respond instantly, making interactions intuitive and time-efficient.
 
-Upgrade Today!
-Upgrade to Pik v1.1 and experience the next level of AI assistance. Updates are a breeze, coding is a delight, and interactions are instantaneous! 🌟
-
-
 ![Update](https://github.com/OwenOrcan/Pik/assets/144565916/a43628c2-f65a-4050-aa29-fc1f28157fea)
-
-
 ![Rate limit](https://github.com/OwenOrcan/Pik/assets/144565916/b0f1a4d5-27d8-4d6c-a81e-2cf95de7226c)
-
-
 ![c++](https://github.com/OwenOrcan/Pik/assets/144565916/ef111691-9777-4959-962d-884e0614af73)
-
-
 ![api](https://github.com/OwenOrcan/Pik/assets/144565916/55b3ddf7-b1a2-493c-b466-018c2b64c6ad)
 
 
